@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "937045097125",
+    "project_id": "kitapla-eo12",
+    "storage_bucket": "kitapla-eo12.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937045097125:android:f41e33dc6d5846a96ceb4c",
+        "android_client_info": {
+          "package_name": "com.kitapla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937045097125-mk40k1l69l6qkq78ka9lio86te8k8nvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT3QCrk0uOadrlznoeaWZSPAjvsndrRJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937045097125-mk40k1l69l6qkq78ka9lio86te8k8nvp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
